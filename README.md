@@ -69,5 +69,3 @@ program lalu dihentikan.
 jika pengguna menginput selain 1 dan 2, maka muncul tampilan Pilihan tidak valid, silakan coba lagi
 
 tampilkan perulangan dari awal.
-
-Selesai
